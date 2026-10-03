@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "product": "Intersection Studio",
+  "version": "1.1.0",
+  "releaseTag": "v1.1.0",
+  "releasedAt": null,
+  "preview": true,
+  "sourceRepository": "Traffic-Studio/Intersection-Studio-dev",
+  "sourceCommit": "3ca23b8d64ad3702ea1bc7689d760b49234a3090",
+  "buildId": "b-d9cd1ca2afed",
+  "releaseToolRevision": null,
+  "artifact": {
+    "file": "intersection-studio-1.1.0.html",
+    "sha256": "e7c648f8b1679b2247a08742a8bfed545700f74767e9cf83612f162d366dc839"
+  }
+}
