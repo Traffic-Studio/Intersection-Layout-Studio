@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "product": "Intersection Layout Studio",
+  "version": "1.2.0",
+  "releaseTag": "v1.2.0",
+  "releasedAt": "2026-10-04T19:02:31Z",
+  "preview": false,
+  "sourceRepository": "Traffic-Studio/Intersection-Layout-Studio-dev",
+  "sourceCommit": "a6b06611bac64e7969bc9a94d7b79d2d242febef",
+  "buildId": "b-4d73331791f0",
+  "releaseToolRevision": "a6b06611bac64e7969bc9a94d7b79d2d242febef",
+  "artifact": {
+    "file": "intersection-layout-studio-1.2.0.html",
+    "bytes": 1614583,
+    "sha256": "0a1bdf65d0eb475159451ac7984d48318fff38aa3d0ffd5df431abe3e9372f85"
+  }
+}
