@@ -1,5 +1,5 @@
 name: Report a bug
-description: Report something in Intersection Studio that is not working as expected.
+description: Report something in Intersection Layout Studio that is not working as expected.
 title: "[Bug] "
 labels:
   - bug
@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reporting a problem with Intersection Studio.
+        Thanks for reporting a problem with Intersection Layout Studio.
 
         Please provide enough information for the issue to be reproduced.
 
@@ -45,7 +45,7 @@ body:
   - type: input
     id: version
     attributes:
-      label: Intersection Studio version
+      label: Intersection Layout Studio version
       placeholder: "e.g. 1.2.0"
 
   - type: input
