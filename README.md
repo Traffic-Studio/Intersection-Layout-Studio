@@ -10,7 +10,7 @@ Latest release: **1.2.0**. Download **intersection-layout-studio-1.2.0.html** fr
 
 Quick start, FAQ, screenshots and current product information are maintained on the [Traffic Studio page](https://traffic-studio.github.io/index.html#intersection-layout).
 
-- [Discussions and feature requests](https://github.com/Traffic-Studio/Discussion/discussions)
+- [Discussions and feature requests](https://github.com/orgs/Traffic-Studio/discussions)
 - [Report a bug](https://github.com/Traffic-Studio/Intersection-Layout-Studio/issues)
 
 ## License
